@@ -4,7 +4,10 @@ My personal portfolio website - Vaibhavi Kansara
 A modern, responsive portfolio website showcasing my skills, projects, and experience as an aspiring Data Analyst and Web Developer.
 
 ## 🌐 Live Demo
-[View Live Portfolio](https://Vk-543.github.io/portfolio)
+[View Live Portfolio](http://127.0.0.1:5500/index.html)
+
+# 📁 Repository
+[View Source Code](https://github.com/Vk-543/portfolio)
 
 ## 📋 About
 This portfolio represents my professional identity as a recent Computer Engineering graduate seeking full-time opportunities in data analysis and web development. The website features a dark theme design with smooth animations and interactive elements.
