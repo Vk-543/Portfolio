@@ -4,13 +4,21 @@ My personal portfolio website - Vaibhavi Kansara
 A modern, responsive portfolio website showcasing my skills, projects, and experience as an aspiring Data Analyst and Web Developer.
 
 ## 🌐 Live Demo
-[View Live Portfolio](http://127.0.0.1:5500/index.html)
+[View Live Portfolio](https://vk-543.github.io/Portfolio/)
 
 # 📁 Repository
 [View Source Code](https://github.com/Vk-543/portfolio)
 
 ## 📋 About
 This portfolio represents my professional identity as a recent Computer Engineering graduate seeking full-time opportunities in data analysis and web development. The website features a dark theme design with smooth animations and interactive elements.
+
+## 📁 Project Structure
+- `index.html` - Main portfolio page
+- `css/` - Stylesheets
+- `js/` - JavaScript files
+- `assets/` - Images and media files
+- `LICENSE/` - MIT License
+- `README.md/` - Project documentation
 
 ## 🛠️ Technologies Used
 
@@ -24,6 +32,20 @@ This portfolio represents my professional identity as a recent Computer Engineer
 ### Backend & Services
 - **Formspree** - Contact form handling and email service
 - **GitHub Pages** - Static site hosting and deployment
+
+### GitHub Pages Deployment
+- **Repository**: `portfolio`
+- **Branch**: `main`
+- **Source**: Root directory
+- **URL**: `https://Vk-543.github.io/portfolio`
+- **Build Status**: [Pages Build & Deployment #1](https://github.com/Vk-543/Portfolio/actions)
+
+### Deployment Process:
+1. Repository created on GitHub
+2. Files uploaded to main branch
+3. GitHub Pages enabled in settings
+4. Automatic deployment on push
+5. **Form functionality tested and verified**
 
 ## 🎨 Features
 
@@ -62,21 +84,6 @@ The contact form is powered by **Formspree**, a form backend service that:
 1. Created account at [formspree.io](https://formspree.io/)
 2. Generated unique form endpoint
 3. Integrated endpoint in HTML form action
-
-
-## 🚀 Deployment
-
-### GitHub Pages Deployment
-- **Repository**: `portfolio`
-- **Branch**: `main`
-- **Source**: Root directory
-- **URL**: `https://Vk-543.github.io/portfolio`
-
-### Deployment Steps:
-1. Repository created on GitHub
-2. Files uploaded to main branch
-3. GitHub Pages enabled in settings
-4. Automatic deployment on push
 
 ## 🎯 Sections Included
 
@@ -127,6 +134,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 **Built with ❤️ by Vaibhavi Kansara**
-5. Tested form functionality
-
-## 📁 Project Structure
